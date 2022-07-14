@@ -1,0 +1,2 @@
+dockerhub_credentials = "arn:aws:secretsmanager:us-east-1:231524793213:secret:codebuild/dockerhub-DDxhMO"
+codestar_connector_credentials = "arn:aws:codestar-connections:us-east-1:231524793213:connection/a08fdde6-c4e3-458e-bb29-dbb2cccf46f0"
